@@ -9,10 +9,10 @@ Exercise 3
 - [x] Internal LINK [KLICK](#internal-link)
 ---
 
-- [x] Images :heart: [KLICK](#images-link)
+- [x] Images :heart: [KLICK](#images)
 ---
 
-- [x] Emojis :mouse: [KLICK](#emojis-link)
+- [x] Emojis :mouse: [KLICK](#emojis)
 ---
 
 - [x] Tables :books: [KLICK](#tables-link)
