@@ -10,7 +10,8 @@ Exercise 3
 ---
 
 - [x] Images :heart: 
---
+---
+
 - [x] Emojis :mouse:
 ---
 
