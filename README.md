@@ -3,7 +3,7 @@ Exercise 3
 
 ### Github Flavoured Markdown
 
-- [x] External LINK 
+- [x] External LINK [KLICK](#external-link)
 --- 
 
 - [x] Internal LINK 
@@ -19,12 +19,6 @@ Exercise 3
 ---
 
 
-#### External LINK 
-#### Internal LINK 
-#### Images
-#### Emojis
-#### Tables
-
 [GitHub/Help](https://help.github.com/en) 
 
 [Image Folder](https://github.com/Sara-Bexx/authoring/tree/master/Images)
@@ -39,7 +33,11 @@ Sven Typo| B2 | :heavy_check_mark:
 Max Clarke| B3 | :heavy_check_mark:
 
 
-
+#### External LINK 
+#### Internal LINK 
+#### Images
+#### Emojis
+#### Tables
 
 
 
