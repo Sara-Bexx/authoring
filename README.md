@@ -6,16 +6,16 @@ Exercise 3
 - [x] External LINK [KLICK](#external-link)
 --- 
 
-- [x] Internal LINK 
+- [x] Internal LINK [KLICK](#internal-link)
 ---
 
-- [x] Images :heart: 
+- [x] Images :heart: [KLICK](#images-link)
 ---
 
-- [x] Emojis :mouse:
+- [x] Emojis :mouse: [KLICK](#emojis-link)
 ---
 
-- [x] Tables :books: 
+- [x] Tables :books: [KLICK](#tables-link)
 ---
 
 
