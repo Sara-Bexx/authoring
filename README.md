@@ -3,7 +3,7 @@ Exercise 3
 
 ### Github Flavoured Markdown
 
-- [x] External LINK [KLICK](#external-link)
+- [x] [External Link](#external-link)
 --- 
 
 - [x] Internal LINK [KLICK](#internal-link)
