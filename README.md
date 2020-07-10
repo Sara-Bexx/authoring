@@ -14,4 +14,10 @@ Exercise 3
 
 [GitHub/Help](https://help.github.com/en) 
 
+[Image Folder](https://github.com/Sara-Bexx/authoring/tree/master/Images)
+
+
+
+
+
 
