@@ -3,21 +3,26 @@ Exercise 3
 
 ### Github Flavoured Markdown
 
-#### External LINK 
 - [x] External LINK 
 --- 
-#### Internal LINK 
+
 - [x] Internal LINK 
 ---
-#### Images
+
 - [x] Images :heart: 
----
-#### Emojis
+--
 - [x] Emojis :mouse:
 ---
-#### Tables
+
 - [x] Tables :books: 
 ---
+
+
+#### External LINK 
+#### Internal LINK 
+#### Images
+#### Emojis
+#### Tables
 
 [GitHub/Help](https://help.github.com/en) 
 
